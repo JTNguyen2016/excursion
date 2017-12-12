@@ -1,14 +1,12 @@
 h1 {
   font-family: verdana; font-weight: normal;
-  font-size: 50px; color: white; text-align: center;
-}
+  font-size: 50px; color: white; 
 
 h4 {
-  font-size; 16px; color: aquamarine; text-align: center;
-}
+  font-size; 16px; color: aquamarine;
 
 body {
-  background-color: black;
+  background-color: black; text-align: center;
 }
 
 img {
