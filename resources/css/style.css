@@ -12,5 +12,6 @@ body {
 }
 
 img {
-  margin: : auto;
+  margin: auto;
+  display: block;
 }
